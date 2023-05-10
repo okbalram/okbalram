@@ -1,11 +1,10 @@
 # 💫 About Me:
-Balram is a result-oriented DevOps Engineer with 4.2 years of experience. He specializes in researching and proposing solutions to customers and implementing them. Balram also has experience in mentoring new team members and helping his teammates resolve project issues.<br><br>His skills include Linux, Ansible, Jenkins, Docker, Kubernetes, Terraform, ArgoCD, Helm charts, Bash scripting, Python3 scripting, Azure, AWS, Trivy, and Cosign. Balram is always learning and staying up to date with the latest developments in his domain.<br><br>If you're looking for modern-day solutions for your project, you can reach out to Balram at donbalram96@gmail.com.
-
+Balram is a result-oriented DevOps Engineer with 4.2 years of experience. He specializes in researching and proposing solutions to customers and implementing them. Balram also has experience in mentoring new team members and helping his teammates resolve project issues.<br><br>His skills include Linux, Ansible, Jenkins, Docker, Kubernetes, Terraform, ArgoCD, Helm charts, Bash scripting, Python3 scripting, Azure, AWS, Trivy, and Cosign. Balram is always learning and staying up to date with the latest developments in his domain.<br><br>If you're looking for modern-day solutions for your project, you can reach out to Balram at okbalram@outlook.com
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/imbalram) 
 
-# Profile Views
+### Profile Views:
 ![](https://komarev.com/ghpvc/?username=okbalram&color=blueviolet)
 
 # 💻 Tech Stack:

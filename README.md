@@ -25,4 +25,4 @@ Balram is a result-oriented DevOps Engineer with 4.2 years of experience. He spe
 <img src="https://rm.up.railway.app/" width="512px"/>
 
 ---
-[![](https://komarev.com/ghpvc/?username=okbalram&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=okbalram&color=blueviolet)
